@@ -1,0 +1,26 @@
+
+.icon-bar {
+    display: flex;
+    flex-direction: row;
+    flex-grow: 9;
+    padding:30px;
+    justify-content: end;
+}
+.active1 {
+    margin: 10px 20px 10px 20px;
+    font-size: 1.5rem;
+    color: #323232;
+}
+.active1:hover{
+    color: #4bb7c3;
+
+}
+.col-6{
+    background-color: #e7e1db;
+}
+.row row-cols-2{
+   margin: 1rem;
+}
+footer{
+    background-color: #ffffff;
+}
